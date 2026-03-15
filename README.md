@@ -1,1 +1,1 @@
-You'll need to BYO ffmpeg.exe for the script to work.
+I don't know why this is here.
